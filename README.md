@@ -1,1 +1,1 @@
-This file receivs data from the ollioscope.
+This file receivs data from the oscilloscope.
