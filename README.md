@@ -1,1 +1,1 @@
-This file receivs data from the spectrum anlayzer.
+This file receivs data from the ollioscope.
