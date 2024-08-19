@@ -2,14 +2,6 @@
 
 This repository contains Python scripts to perform shot noise measurements using an oscilloscope and a Toptica laser setup, along with data processing and visualization. The script leverages instruments like a LeCroy oscilloscope and Sigilent RSA spectrum analyzer, alongside a Toptica laser controller, to acquire and analyze noise data in real-time.
 
-## Table of Contents
-
-- [Overview](#overview)
-- [Requirements](#requirements)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Helper Functions](#helper-functions)
-- [License](#license)
 
 ## Overview
 
